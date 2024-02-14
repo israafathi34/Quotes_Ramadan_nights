@@ -1,5 +1,5 @@
 
-var Name = window.prompt('enter you name please .. ');
+var Name = window.prompt('enter your name please .. ');
 
 document.getElementById('name').innerHTML= Name;
 
